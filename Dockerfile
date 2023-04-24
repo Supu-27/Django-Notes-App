@@ -1,5 +1,6 @@
 FROM python:3.9
 
+MAINTAINER Supriya Surkar <surkarsupriya97@gmail.com>
 WORKDIR /app/backend
 
 COPY requirements.txt /app/backend
