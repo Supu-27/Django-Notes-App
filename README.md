@@ -33,7 +33,21 @@ Install Nginx reverse proxy to make this application available
 
 
 
+
+
+
 ![Django-Notes-app-updated](https://user-images.githubusercontent.com/125067454/234096119-b30771d7-2cb7-4175-9286-3f2e68b95582.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -54,8 +68,6 @@ Install Nginx reverse proxy to make this application available
 
 
 
-
-![image](https://user-images.githubusercontent.com/125067454/234078768-1943e255-2e75-4792-8799-f3b846f1893b.png)
 
 
 
