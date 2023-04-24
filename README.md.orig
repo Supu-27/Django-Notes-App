@@ -66,3 +66,9 @@ Install Nginx reverse proxy to make this application available
 Nginx Default root : /var/www/html
 Nginx Default configuration stored in : /etc/nginx/nginx.conf
 >>>>>>> 3125955 (files modified with some content)
+
+
+
+# Conclusion :
+
+So here we have successfully built a simple notes app using the front-end and backend skills with Django and React.
