@@ -1,5 +1,5 @@
 """
-ASGI config for notesapp project.
+ASGI config for notesapp React and Django project 
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
