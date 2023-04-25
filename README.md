@@ -36,6 +36,22 @@ Nginx Default root : /var/www/html
 Nginx Default configuration stored in : /etc/nginx/nginx.conf
 
 
+#Nginx staic website
+
+
+![image](https://user-images.githubusercontent.com/125067454/234197604-887446ff-0db8-4e30-b4e9-235156e2c9a3.png)
+
+
+
+
+
+
+
+
+
+
+
+
 # Conclusion :
 
 So here we have successfully built a simple notes app using the front-end and backend skills with Django and React.
