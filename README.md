@@ -29,7 +29,21 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
-<<<<<<< HEAD
+`sudo systemctl status nginx`
+`sudo systemctl restart nginx`
+
+Nginx Default root : /var/www/html
+Nginx Default configuration stored in : /etc/nginx/nginx.conf
+
+
+# Conclusion :
+
+So here we have successfully built a simple notes app using the front-end and backend skills with Django and React.
+
+
+
+
+
 
 
 
@@ -75,10 +89,3 @@ Install Nginx reverse proxy to make this application available
 
 
 
-=======
-`sudo systemctl status nginx`
-`sudo systemctl restart nginx`
-
-Nginx Default root : /var/www/html
-Nginx Default configuration stored in : /etc/nginx/nginx.conf
->>>>>>> 3125955 (files modified with some content)
