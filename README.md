@@ -44,6 +44,21 @@ sudo systemctl status nginx
 sudo systemctl restart nginx
 ```
 
+#Nginx staic website
+
+
+![image](https://user-images.githubusercontent.com/125067454/234197604-887446ff-0db8-4e30-b4e9-235156e2c9a3.png)
+
+
+
+
+
+
+
+
+
+
+
 6. Open Nginx configuration file
 ```
 cd /etc/nginx/sites-enabled
@@ -78,12 +93,11 @@ Congratulations! You have successfully hosted a Notes App using React, Django, N
 
 
 
+![Django-notes-app](https://user-images.githubusercontent.com/125067454/234079330-1607b9da-1041-4c68-95ed-0252d000cd3c.png)
 
 
-#Nginx staic website
 
 
-![image](https://user-images.githubusercontent.com/125067454/234197604-887446ff-0db8-4e30-b4e9-235156e2c9a3.png)
 
 
 
@@ -105,10 +119,5 @@ Congratulations! You have successfully hosted a Notes App using React, Django, N
 
 
 
-
-
-
-
-![Django-notes-app](https://user-images.githubusercontent.com/125067454/234079330-1607b9da-1041-4c68-95ed-0252d000cd3c.png)
 
 
