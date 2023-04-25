@@ -2,23 +2,22 @@ pipeline {
     agent any
 
     stages {
-        stage('Build Docker Image') {
+        stage('Checkout') {
             steps {
-                sh 'docker build -t notes-app .'
+                git 'https://github.com/Supu-27/Django-Notes-App.git'
             }
         }
-        
-        stage('Run Docker Container') {
+        stage('Build') {
             steps {
-                sh 'docker run -p 8000:8000 --name notes-container notes-app'
+                sh 'docker build -t myimage .'
             }
         }
-
-        stage('Deploy to Production') {
+        stage('Run') {
             steps {
-                // Add steps to deploy the container to production
+                sh 'docker run -p 8000:8000 myimage'
             }
         }
     }
 }
+
 
